@@ -1,0 +1,51 @@
+
+===== CYBER THREAT LOG REPORT =====
+Name: BERT P. YRUMA	
+Handle: FirstByte
+Start Time: 2026-11-02 15:15:50.097745
+End Time: 2026-11-02 15:17:43.281165
+Duration (minutes): 1.89
+Score: 9/10
+Rating: ADVANCED
+---- Threat Logs ----
+Threat: DNS Amplification DDoS
+WARNING: Multiple authentication failures for service
+NOTICE: Suspicious traffic pattern detected targeting port 
+-------------------
+Threat: Proxy Web Exploit
+NOTICE: Suspicious traffic pattern detected targeting port 
+WARNING: Multiple authentication failures for service
+-------------------
+Threat: Telnet Credential Theft
+ALERT: Failed login attempt detected from 192.168.1.201 on port
+ALERT: Failed login attempt detected from 192.168.1.64 on port
+-------------------
+Threat: HTTP Web Exploit
+ALERT: Possible brute force attempt detected
+ALERT: Possible brute force attempt detected
+-------------------
+Threat: RDP Brute Force Attack
+ALERT: Failed login attempt detected from 192.168.1.51 on port
+ALERT: Possible brute force attempt detected
+-------------------
+Threat: SMTP Phishing Campaign
+NOTICE: Suspicious traffic pattern detected targeting port 
+NOTICE: Suspicious traffic pattern detected targeting port 
+-------------------
+Threat: SSH Brute Force Attack
+CRITICAL: Ransomware activity suspected via
+NOTICE: Suspicious traffic pattern detected targeting port 
+-------------------
+Threat: HTTPS Web Exploit
+CRITICAL: Ransomware activity suspected via
+WARNING: Multiple authentication failures for service
+-------------------
+Threat: SMB Ransomware Attack
+CRITICAL: Ransomware activity suspected via
+WARNING: Multiple authentication failures for service
+-------------------
+Threat: FTP Credential Sniffing
+WARNING: Multiple authentication failures for service
+ALERT: Failed login attempt detected from 192.168.1.28 on port
+-------------------
+===================================
